@@ -13,9 +13,9 @@ title                    : "起名算字 - 官方网站"
 title_separator          : "-"
 name                     : &name "起名算字"
 description              : &description "「起名算字」官方网站 - 发现汉字之美，辅助智能起名。"
-url                      : "https://namer.zonehc.top"
-baseurl                  : ""
-repository               : ""
+url                      : "https://helinxuan.github.io"
+baseurl                  : "/academicpages.github.io"
+repository               : "helinxuan/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
